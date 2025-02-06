@@ -6,7 +6,7 @@ Is designed to help people learn foreign languages. This app serves as a compreh
 
 ## Authors:
 
-**Dmitrii Nikitin D.** *(GitHub: [DimitrisNikis](https://github.com/DimitrisNikis))* & **Stepan Solovev G.** *(GitHub: [fatmaann](https://github.com/fatmaann))*
+**Dimitry Nikitin D.** *(GitHub: [DimitrisNikis](https://github.com/DimitrisNikis))* & **Stepan Solovev G.** *(GitHub: [fatmaann](https://github.com/fatmaann))*
 
 ## WORDBOOK app Install:
 
